@@ -1,7 +1,7 @@
 Java Code Styles
 ================
 
-IntelliJ IDEA code style settings for Square's Java and Android projects.
+IntelliJ IDEA code style settings for Remind's Android projects. Forked from Square's Java Code Styles.
 
 
 Installation
